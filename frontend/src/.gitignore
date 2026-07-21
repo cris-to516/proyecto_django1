@@ -1,0 +1,17 @@
+# Entornos virtuales
+entorno/
+env/
+venv/
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Node / React
+node_modules/
+frontend/node_modules/
+dist/
+.env
+
+# Configs locales
+.vscode/
+.DS_Store

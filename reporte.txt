@@ -1,0 +1,19 @@
+EVIDENCIA: DESCRIPCIÓN DE ARCHIVOS DE LA APLICACIÓN "GESTION"
+
+1. admin.py:
+Se utiliza para registrar los modelos en el panel de administración de Django, permitiendo gestionar los datos (crear, editar, borrar) desde una interfaz visual rápida.
+
+2. apps.py:
+Contiene la configuración de la aplicación. Django la usa de manera interna para inicializar tu app y asignarle un nombre identificador.
+
+3. models.py:
+Es el lugar donde diseñas la estructura de tu base de datos mediante código Python. Define las tablas y columnas utilizando el mapeador objeto-relacional (ORM).
+
+4. tests.py:
+Sirve para programar pruebas automatizadas que verifiquen que la lógica de tu aplicación funcione sin errores antes de subirla a producción.
+
+5. views.py:
+Es el cerebro lógico que gestiona lo que ve el usuario. Recibe peticiones de la web (requests), procesa la información y devuelve una respuesta (HTML, JSON, etc.).
+
+6. migrations (Carpeta):
+Lleva el historial y control de cambios de tus modelos. Traduce las clases de Python creadas en models.py en comandos SQL listos para la base de datos.
