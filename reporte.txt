@@ -1,7 +1,6 @@
 EVIDENCIA: DESCRIPCIÓN DE ARCHIVOS DE LA APLICACIÓN "GESTION"
 
-1. admin.py:
-Se utiliza para registrar los modelos en el panel de administración de Django, permitiendo gestionar los datos (crear, editar, borrar) desde una interfaz visual rápida.
+1.Versión modificada por Aby
 
 2. apps.py:
 Contiene la configuración de la aplicación. Django la usa de manera interna para inicializar tu app y asignarle un nombre identificador.
@@ -17,3 +16,10 @@ Es el cerebro lógico que gestiona lo que ve el usuario. Recibe peticiones de la
 
 6. migrations (Carpeta):
 Lleva el historial y control de cambios de tus modelos. Traduce las clases de Python creadas en models.py en comandos SQL listos para la base de datos.
+7. Documentación completada.git add .
+
+
+
+profesor aldoo mdificacion
+
+cristo modificacion 2
