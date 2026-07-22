@@ -1,6 +1,6 @@
 EVIDENCIA: DESCRIPCIÓN DE ARCHIVOS DE LA APLICACIÓN "GESTION"
 
-1.Versión modificada por Aby
+3. LÍNEA DE CONFLICTO REAL - ABY
 
 2. apps.py:
 Contiene la configuración de la aplicación. Django la usa de manera interna para inicializar tu app y asignarle un nombre identificador.
