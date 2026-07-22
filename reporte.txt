@@ -22,3 +22,5 @@ Lleva el historial y control de cambios de tus modelos. Traduce las clases de Py
 profesor aldoo mdificacion
 
 cristo modificacion 2
+
+Se agrega apartado de observaciones por el equipo
