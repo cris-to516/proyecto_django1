@@ -24,3 +24,5 @@ profesor aldoo mdificacion
 cristo modificacion 2
 
 Se agrega apartado de observaciones por el equipo
+
+Integrantes: Cristo, Aby, Salvador
